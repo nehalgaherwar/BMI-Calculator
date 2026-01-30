@@ -20,3 +20,12 @@ It helps users calculate their **Body Mass Index (BMI)** and shows the health st
 
 ---
 
+# ⚙️ How to Run Locally
+1.Clone the repository
+
+git clone
+
+2.Open folder
+
+
+3.Run the project Just open index.html in your browser ✅
