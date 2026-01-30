@@ -23,7 +23,7 @@ It helps users calculate their **Body Mass Index (BMI)** and shows the health st
 # ⚙️ How to Run Locally
 1.Clone the repository
 
-git clone
+git clone https://github.com/nehalgaherwar/BMI-Calculator.git
 
 2.Open folder
 
